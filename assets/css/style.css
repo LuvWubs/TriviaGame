@@ -1,0 +1,17 @@
+#construction {
+  background-color: #C0C0C0;
+  font-size: 20px;
+  display: flow-root;
+  text-align: center;
+  padding: 30px;
+  bottom: 0;
+  left: 0;
+}
+
+#gameName {
+  text-align: center;
+}
+
+#gameStart {
+  padding: 0 20px 10px 20px;
+}
